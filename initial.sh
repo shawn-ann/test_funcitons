@@ -1,0 +1,2 @@
+
+echo "initialize $1"
