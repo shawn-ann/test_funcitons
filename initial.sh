@@ -1,4 +1,4 @@
 
 echo "initialize $1"
 
-sleep 500
+echo "master branch"
