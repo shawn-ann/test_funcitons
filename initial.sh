@@ -3,4 +3,4 @@ echo "initialize $1"
 
 echo "test branch"
 
-sleep 900
+sleep 9000
